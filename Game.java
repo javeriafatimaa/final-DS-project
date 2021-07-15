@@ -1,4 +1,8 @@
+/* REFERENCE:
+    https://codereview.stackexchange.com/questions/129719/java-snake-game  
+Code is copied from the above link and done some changes
 
+Package Declearation...  */
 package javaapplication33;
 
 //IMPORT JAVA Built-in Functions for GUI, GRAPHICS & EVENT HANDLING 
